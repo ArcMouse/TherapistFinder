@@ -1,6 +1,6 @@
 # MindEase — Therapist Finder & Practice Platform
 
-A production-ready therapist discovery, booking and practice-management product.
+A pre-launch, in-development therapist discovery, booking and practice-management product.
 
 - **Mobile app** — React Native (Expo SDK 57) + TypeScript + NativeWind + `expo-router`, React Query, Zustand
 - **Marketing website + therapist portal** — React (Vite) + TypeScript + Tailwind CSS + React Router
