@@ -1,0 +1,12 @@
+{
+  "name": "mindease-e2e",
+  "private": true,
+  "version": "1.0.0",
+  "description": "End-to-end browser verification for MindEase (Playwright + real Chromium).",
+  "scripts": {
+    "test": "node run.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.49.0"
+  }
+}

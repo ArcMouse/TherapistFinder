@@ -1,0 +1,34 @@
+# Python / Django
+backend/.venv/
+__pycache__/
+*.py[cod]
+backend/db.sqlite3
+backend/staticfiles/
+backend/emails/
+backend/.env
+
+# Node / Expo
+mobile/node_modules/
+mobile/.expo/
+mobile/dist/
+mobile/web-build/
+mobile/.env
+
+# Website (Vite)
+web/node_modules/
+web/dist/
+web/.env
+
+# E2E
+e2e/node_modules/
+e2e/report.json
+e2e/web-report.json
+
+# OS / editors
+.DS_Store
+*.log
+.idea/
+.vscode/
+
+# Root env
+.env

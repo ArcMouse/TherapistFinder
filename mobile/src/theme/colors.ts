@@ -1,0 +1,18 @@
+export const colors = {
+  primary500: "#6C63FF",
+  primary600: "#5B52E8",
+  primary50: "#F1F0FF",
+  primary100: "#E5E3FF",
+  accent500: "#00C2A8",
+  accent50: "#E6FFFB",
+  surface50: "#F8F9FC",
+  surface100: "#F1F3F9",
+  surface200: "#E5E8F0",
+  surface400: "#9AA1B4",
+  surface600: "#5B6172",
+  surface800: "#1C2029",
+  surface900: "#0E1116",
+  danger500: "#EF476F",
+  success500: "#12B76A",
+  white: "#FFFFFF",
+} as const;
